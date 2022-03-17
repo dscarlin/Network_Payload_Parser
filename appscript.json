@@ -1,0 +1,23 @@
+{
+  "timeZone": "America/New_York",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "gmail": {
+   
+  },
+ 
+  "addOns": {
+    "common": {
+      "name": "SFI Payload Parser",
+      "logoUrl": "https://www.pngfind.com/pngs/m/236-2367416_free-download-at-icons8-json-transparent-background-logo.png",
+      "layoutProperties": {
+        "primaryColor": "#009EDB",
+        "secondaryColor": "#009EDB"
+      },
+      "homepageTrigger": {
+        "runFunction": "introCard",
+        "enabled": true
+      }
+    }
+  }
+}
